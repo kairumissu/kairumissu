@@ -1,5 +1,5 @@
 <img src="./coverImg.gif" />
-<h1 align="center">I'm Kairusama</h1>
+<h1 align="center">I'm Khyle</h1>
 <h3 align="center">A college student developer from the Philippines.</h3>
 
 <div align="center">
